@@ -5,4 +5,29 @@ So in this work I try to implement neural network that are capable of generating
 
 <h2> Network Architecture </h2>
 In this work i use two different network one for extract the image from image and second is LSTM network for generating the text using that image.
-<img src="img.png"/>
+<figure>
+<img src ="img.png" heigh="300" width="500"/>
+</figure>
+
+<h2> File structure </h2>
+<ul>
+  <li> dataset.py :- This file contain the custom dataloader that return train data and test data.</li> 
+  <li> vocabulary.py :- This file is used for creating the vocabulary. </li>
+  <li> model.py  :- This file is basically where I define model and sample function for testing </li>
+  <li> train.py :- This file is basically used for training the network </li>
+  <li> test.py  :- As name suggest this file is for testing </li>
+</ul>
+
+<h2> Installation. </h2>  
+  <ul>
+  <li>Python==3.6.6</li>
+  <li>Pytorch==1.6.0</li>
+  </ul>
+
+<h2> Predictions. </h2>
+<figure>
+<img src ="image1.png" heigh="300" width="500"/>
+</figure>
+<figure>
+<img src ="image2.png" heigh="300" width="500"/>
+</figure>
