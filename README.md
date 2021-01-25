@@ -1,10 +1,10 @@
 <h2>Image captioning</h2>
-Image Captioning is the process of generating textual description of an image.
+<p>Image Captioning is the process of generating textual description of an image.
 It uses both Natural Language Processing and Computer Vision to generate the captions.
 So in this work I try to implement neural network that are capable of generating text given an image.
-
+</p>
 <h2> Network Architecture </h2>
-<p>In this work I use two different network one for extracting features from image and second is LSTM network for generating the text using that image.<p>
+<p>In this work I use two different network one for extracting features from image and second is LSTM network for generating the text using that image.</p>
 <figure>
 <img src ="img.png" heigh="300" width="500"/>
 </figure>
@@ -35,5 +35,7 @@ Link: https://cocodataset.org/#download
 </figure>
 
 <h2> Important Note. </h2>
+<p>
 I am just the beginner and learning about this fascinating field, Please feel free to point out as well contribute. 
 Hope to upload more interesting project in future caio.
+</p>
