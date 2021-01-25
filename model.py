@@ -45,11 +45,10 @@ class decoder(nn.Module):
         # now pass it through lstm
         output, hiddenCell    = self.lstm(embed_output, hiddenCell)
         output       = self.output(output)
-
         return output
 
     def sample(self,inputs,maxlen):
-        states = self.get_initial_state(inputs.size(0))
+        states = None
         predicted_sentence =[]
         for i in range(maxlen):
             outputs,states = self.lstm(inputs, states)
