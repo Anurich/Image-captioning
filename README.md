@@ -5,3 +5,4 @@ So in this work I try to implement neural network that are capable of generating
 
 <h2> Network Architecture </h2>
 In this work i use two different network one for extract the image from image and second is LSTM network for generating the text using that image.
+<img src="img.png"/>
