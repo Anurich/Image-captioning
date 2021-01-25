@@ -4,12 +4,12 @@ It uses both Natural Language Processing and Computer Vision to generate the cap
 So in this work I try to implement neural network that are capable of generating text given an image.
 
 <h2> Network Architecture </h2>
-In this work i use two different network one for extracting features from image and second is LSTM network for generating the text using that image.
+In this work I use two different network one for extracting features from image and second is LSTM network for generating the text using that image.
 <figure>
 <img src ="img.png" heigh="300" width="500"/>
 </figure>
 <h2> Dataset. </h2>
-The dataset used in this project is COCO i cannot upload the dataset but you can find by clicking the link below.
+The dataset used in this project is COCO dataset for image captioning 2015, I cannot upload dataset here but you can find it by clicking the link below.
 Link: https://cocodataset.org/#download
 <h2> File structure </h2>
 <ul>
