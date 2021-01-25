@@ -31,3 +31,7 @@ In this work i use two different network one for extract the image from image an
 <figure>
 <img src ="image2.png" heigh="300" width="500"/>
 </figure>
+
+<h2> Important Note. </h2>
+I am just the beginner and learning about this fascinating field, Please feel free to point out as well contribute. 
+Hope to upload more interesting project in future caio.
