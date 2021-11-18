@@ -37,5 +37,5 @@ Link: https://cocodataset.org/#download
 <h2> Important Note. </h2>
 <p>
 I am just the beginner and learning about this fascinating field, Please feel free to point out my mistake as well as feel free to contribute. 
-Hope to upload more interesting project in future caio.
+Hope to upload more interesting project in future.
 </p>
